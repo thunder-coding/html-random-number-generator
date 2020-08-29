@@ -2,7 +2,6 @@
 This website generates random numbers
 
 # demo
-<html>
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1.p">
@@ -21,4 +20,3 @@ This website generates random numbers
 			</div>
 		</main>
 	</body>
-</html>
